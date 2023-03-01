@@ -1,5 +1,9 @@
-# Kodilla---Module_15.4_Task_1_Pipeline
-Python / NumPy / Pandas / Matplotlib / Seaborn / Scikit-learn / Jupyter Notebook
+# Scikit-learn-pipeline-vs-model
 
-Pipeline vs standard model
+Python / Jupyter notebook
+libraries: NumPy / Pandas / Matplotlib / Seaborn / Scikit-learn
+
+Pipeline vs standard model:
+- checking  differences,
+- finding out how to use pipeline
 
